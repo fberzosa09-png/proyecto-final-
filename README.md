@@ -1,9 +1,25 @@
-# Eco Actions
+## Este es el tipo de mi proyecto:
 
-## Esta es la idea de mi proyecto:
+> Página web / Eco-calculadora
 
-> Crear una página web que ayude a las personas a combatir el cambio climático mediante consejos y retos ecológicos sencillos.
+## Las bibliotecas que voy a utilizar:
 
-La página mostrará diferentes acciones que las personas pueden realizar diariamente, como ahorrar agua, reciclar, utilizar menos plástico, apagar las luces y caminar más.
+* Flask
+* Bootstrap
 
-El objetivo es enseñar que pequeñas acciones pueden ayudar a cuidar el planeta.
+## Referencias útiles:
+
+* [Documentación oficial de Flask](https://flask.palletsprojects.com/en/stable/)
+* [Flask Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/)
+* [Documentación de Bootstrap](https://getbootstrap.com/)
+* [MDN Web Docs sobre formularios HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
+
+## Los artículos de la guía que me ayudarán durante el desarrollo
+
+Esta guía me ayudará a entender cómo crear una aplicación web con Python y Flask, usando rutas, páginas HTML y plantillas: [Flask Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/)
+
+Esta guía me ayudará a entender cómo usar plantillas HTML con Flask para mostrar información dinámica en la página web: [Flask Templates](https://flask.palletsprojects.com/en/stable/tutorial/templates/)
+
+Esta guía me ayudará a crear formularios para que el usuario pueda responder preguntas dentro de la eco-calculadora: [HTML Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
+
+Esta guía me ayudará a mejorar el diseño visual de la página y hacer que se vea mejor en computadora y celular: [Bootstrap](https://getbootstrap.com/)

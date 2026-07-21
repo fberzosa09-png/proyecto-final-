@@ -1,25 +1,29 @@
-## Este es el tipo de mi proyecto:
+# 🌿 Eco Actions — Transforma tus hábitos, cuida el planeta
 
-> Página web / Eco-calculadora
+**Eco Actions** es una aplicación web interactiva diseñada para concientizar sobre el cambio climático y motivar a las personas a reducir su huella ecológica desde el hogar mediante micro-retos diarios y un diagnóstico personalizado.
 
-## Las bibliotecas que voy a utilizar:
+---
 
-* Flask
-* Bootstrap
+## 🚀 Características Principales
 
-## Referencias útiles:
+* 🧮 **Eco-Calculadora Interactiva:** Evalúa hábitos diarios (agua, electricidad, plásticos, reciclaje y transporte) con una barra de progreso en tiempo real.
+* 🏆 **Sistema de Diagnóstico:** Categoriza al usuario en niveles (*Eco Principiante*, *Eco Consciente* o *Eco Héroe*) y entrega consejos personalizados.
+* 🔥 **Reto del Día:** Fomenta la acción inmediata con un botón de seguimiento interactivo.
+* 🌱 **Retos Ecológicos:** Tarjetas visuales con acciones sencillas ordenadas por dificultad.
 
-* [Documentación oficial de Flask](https://flask.palletsprojects.com/en/stable/)
-* [Flask Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/)
-* [Documentación de Bootstrap](https://getbootstrap.com/)
-* [MDN Web Docs sobre formularios HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
+---
 
-## Los artículos de la guía que me ayudarán durante el desarrollo
+## 🛠️ Tecnologías Utilizadas
 
-Esta guía me ayudará a entender cómo crear una aplicación web con Python y Flask, usando rutas, páginas HTML y plantillas: [Flask Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/)
+* **Backend:** Python 3 + Flask
+* **Frontend:** HTML5, CSS3 y JavaScript (ES6)
+* **Diseño:** Responsive (adaptable a móvil y computadora) con tipografía *Plus Jakarta Sans*.
 
-Esta guía me ayudará a entender cómo usar plantillas HTML con Flask para mostrar información dinámica en la página web: [Flask Templates](https://flask.palletsprojects.com/en/stable/tutorial/templates/)
+---
 
-Esta guía me ayudará a crear formularios para que el usuario pueda responder preguntas dentro de la eco-calculadora: [HTML Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form)
+## 💻 Cómo ejecutar el proyecto localmente
 
-Esta guía me ayudará a mejorar el diseño visual de la página y hacer que se vea mejor en computadora y celular: [Bootstrap](https://getbootstrap.com/)
+1. **Clonar o descargar el repositorio.**
+2. **Instalar las dependencias:**
+   ```bash
+   pip install -r requirements.txt
